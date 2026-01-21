@@ -1,5 +1,13 @@
 # 📊 Market Insights Brazil
 
+## Brecha - Automação
+
+v1 - Rodar script a partir do meu repositório
+  - Dados brutos devem existir no repositório
+  - Parmâmetros ainda hard-coded
+
+---
+
 Solução completa para **pesquisa de mercado e inteligência de negócios** baseada em **dados públicos de empresas brasileiras (Receita Federal)**. O projeto integra **Python (pandas)**, **SQL** e **Power BI** para filtrar, tratar e analisar milhões de registros, permitindo identificar empresas por **CNAE**, **situação cadastral**, **porte**, **localização** e **tempo de atividade**.
 
 > ⚠️ **Aviso**: este projeto utiliza exclusivamente dados públicos. Não há enriquecimento com dados sensíveis ou privados.
