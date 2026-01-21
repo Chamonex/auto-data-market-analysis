@@ -11,4 +11,4 @@ jobs:
         uses: actions/checkout@v4
       
       - name: run-command
-        run: python main.py
+        run: python python/main.py
