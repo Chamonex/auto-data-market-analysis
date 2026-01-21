@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: run-command
-        run: python pesquisamercado2.py
+        run: python python/main.py
