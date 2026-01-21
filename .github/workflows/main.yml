@@ -1,0 +1,11 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  run_app:
+    name: Run APp
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: run-command
+        run: python pesquisamercado2.py
